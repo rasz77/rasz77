@@ -1,7 +1,7 @@
 Hi, I'm Rashika - A Computer Science student at SUNY Oswego.
 
 # 💫 About Me:
-🔭 I’m currently working on one of the online Harvard courses and also learning data analysis tools.<br>👯 I’m looking to collaborate on building fun side projects.<br>🤝 I’m looking for help with deploying my full-featured Family Tree project from last semester.<br>🌱 I’m currently learning to build projects and leveling up my coding skills. <br>⚡ Fun fact:  I’m a professional “cry-then-code” learner.
+🔭 I’m taking CS50, Harvard’s online CS course, to build a stronger foundation, and exploring data analysis tools alongside it.<br>👯 Looking to collaborate on building fun side projects.<br>🤝 Would love help deploying my Family Tree project from last semester and getting it live.<br>🌱 Currently learning to build projects and leveling up my coding skills. <br>⚡ Fun fact:  I’m a professional “cry-then-code” learner.
 
 
 ## 🌐 Socials:
