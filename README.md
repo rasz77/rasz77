@@ -1,5 +1,5 @@
 # Hey there!👋
-I’m Rashika Simkhada, a Computer Science student at SUNY Oswego. I’m currently expanding my CS skills, building fun projects, and exploring new tech. Always up for teaming up on fun side projects. So, if you’ve got an idea, reach out and let’s build something awesome together.
+I’m Rashika Simkhada, a Computer Science student at SUNY Oswego. I’m currently learning and expanding my CS skills, exploring new tech, and building fun projects. Always up for teaming up on fun side projects. So, if you have an idea, feel free to reach out.
 
 
 ## 🌐 Socials:
