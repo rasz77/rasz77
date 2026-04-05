@@ -1,5 +1,5 @@
 # Hey there!👋
-My name is Rashika Simkhada(Rashi), a senior Computer Science student at SUNY Oswego. I’m currently expanding my skills, exploring new tech, and learning to build fun projects. Always up for teaming up on fun side projects. So, if you have an idea, feel free to reach out.
+My name is Rashika Simkhada (Rashi), a senior Computer Science student at SUNY Oswego. I’m currently expanding my skills, exploring new tech, and learning to build fun projects. Always up for teaming up on fun side projects. So, if you have an idea, feel free to reach out.
 
 
 ## 🌐 Socials:
